@@ -1,0 +1,7 @@
+1559114522249	geckodriver	INFO	Listening on 127.0.0.1:52147
+1559114524818	mozprofile::profile	INFO	Using profile path C:\Users\23927\AppData\Local\Temp\rust_mozprofile.aJlrb6IDrD7q
+1559114524822	geckodriver::marionette	INFO	Starting browser F:\firefox\firefox.exe with args []
+1559114524958	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52160
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1559114530424	Marionette	INFO	Listening on port 52160
+JavaScript error: chrome://marionette/content/listener.js, line 1243: NS_ERROR_DOM_BAD_URI: Access to restricted URI denied
